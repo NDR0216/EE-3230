@@ -1,0 +1,5 @@
+$DATA1 SOURCE='HSPICE' VERSION='N-2017.12 linux64' PARAM_COUNT=0
+$OPTION MEASFORM=3
+.TITLE '* -------------------------------------------------------------------'
+total_avg_pwr_uw,temper,alter#
+  49.26066,  25.00000,1
